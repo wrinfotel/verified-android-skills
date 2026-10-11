@@ -1,0 +1,4 @@
+# GOOD fixture — baseline profile stub (keeps the compose-performance
+# baseline-profile check quiet when the pack runs over this fixture).
+HSPLcom/example/fixtures/MainActivity;-><init>()V
+Lcom/example/fixtures/MainActivity;
