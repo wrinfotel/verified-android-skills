@@ -6,8 +6,9 @@ Verified Android & Compose skills for AI coding agents — every skill ships
 with machine-readable checks, so your agent **proves its work** instead of
 claiming it.
 
-<!-- TODO(demo): hero GIF <5MB — agent fixes a recomposition bug, runs
-     verify.sh, output shows PASS. Record with VHS/asciinema before launch. -->
+<p align="center">
+  <img src="docs/hero.gif" width="830" alt="Agent runs verify.sh, sees FAIL on an unstable UI state, applies the fix, and gets a wall of green PASS.">
+</p>
 
 ## Install (30 seconds)
 
