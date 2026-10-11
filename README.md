@@ -1,5 +1,7 @@
 # verified-android-skills
 
+[![verify](https://github.com/wrinfotel/verified-android-skills/actions/workflows/verify.yml/badge.svg)](https://github.com/wrinfotel/verified-android-skills/actions/workflows/verify.yml)
+
 Verified Android & Compose skills for AI coding agents — every skill ships
 with machine-readable checks, so your agent **proves its work** instead of
 claiming it.
